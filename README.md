@@ -3,10 +3,6 @@
 <h3 align="center">Blockchain Developer | Next.js Expert | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XD637&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
   <a href="https://xennium.org"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/></a>
 </p>
 
