@@ -13,12 +13,10 @@
 ---
 
 ## 🚀 About Me  
-🚀 **Blockchain Developer** | ⚡ **Next.js Enthusiast** | 🤖 **AI Explorer**  
 
 🔹 Passionate about **Smart Contracts, Web3, and DeFi**  
 🔹 Building **dApps with Next.js, TypeScript & Solidity**  
-🔹 Exploring **AI-powered blockchain automation**  
-🔹 Open-source contributor and **Web3 educator**  
+🔹 Exploring **AI-powered blockchain automation**    
 
 ---
 
@@ -31,12 +29,13 @@
 ---
 
 ## 🛠 Tech Stack  
-### 🌐 **Web & Blockchain**  
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)  
+### 🌐 **Web & Blockchain** 
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs) 
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)   
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)  
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon)  
-![The Graph](https://img.shields.io/badge/The%20Graph-6f42c1?style=for-the-badge&logo=thegraph)  
+
 
 ### 💻 **Languages & Tools**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
