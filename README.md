@@ -22,6 +22,14 @@
 
 ---
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=XD637&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=XD637&theme=radical" />
+</p>
+
+---
+
 ## 🛠 Tech Stack  
 ### 🌐 **Web & Blockchain**  
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)  
@@ -45,12 +53,5 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=XD637&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=XD637&theme=radical" />
-</p>
-
----
 
 🔥 **"Always building & experimenting with Blockchain, AI & Next.js!"** 🚀  
