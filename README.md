@@ -1,18 +1,31 @@
-<!-- Stylish GitHub Profile README -->
-<h1 align="center">Hi 👋, I'm XD</h1>
-<h3 align="center">Blockchain Developer | Next.js Expert | AI Enthusiast</h3>
-
-<p align="center">
-  <a href="https://xennium.org"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/></a>
-</p>
+```markdown
+# 🚀 **Blockchain, AI & Next.js Projects**  
+Welcome to my repository! I specialize in **blockchain development, AI automation, and Next.js applications**. My focus is on building cutting-edge **dApps, smart contracts, and AI-powered crypto solutions**.  
 
 ---
 
-## 🚀 About Me  
+## 📋 **Featured Projects**  
 
-🔹 Passionate about **Smart Contracts, Web3, and DeFi**  
-🔹 Building **dApps with Next.js, TypeScript & Solidity**  
-🔹 Exploring **AI-powered blockchain automation**    
+<div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px;">
+
+| **Category**        | **Project Name**                   | **Description**                                       | **Repo Link**                                                          |
+|--------------------|--------------------------------|------------------------------------------------|------------------------------------------------------------------------|
+| **Web3 & DeFi**   | Xennium                         | Web3 Platform for Xennium Community            | [Repo](https://github.com/XD637/xennium.org)                          |
+|                   | XenniumX                        | Xennium Smart Contract                        | [Repo](https://github.com/XD637/xenniumx)                             |
+| **AI & Automation**| AI Trading Agent               | AI-driven trading bot for DeFi strategies      | [Repo](https://github.com/XD637/AI-Trading-Agent)                     |
+|                   | AI NFT Assistant               | AI-powered NFT marketplace assistant           | [Repo](https://github.com/XD637/AI-NFT-Assistant)                     |
+| **Sniper Bots**   | Solana Sniper Bot              | Snipes token launches on Solana               | [Repo](https://github.com/XD637/Solana-Sniper-Bot)                    |
+| **Trading Bots**  | Solana Trading Bot             | Buy & Sell on Raydium, Meteora, and Jupiter   | [Repo](https://github.com/XD637/Solana-Trading-Bot)                   |
+
+</div>
+
+---
+
+## 🌟 **Why Blockchain & AI?**  
+I am passionate about building the next-generation **Web3 and AI-powered automation tools** that simplify blockchain interactions. Here’s what I focus on:  
+- **AI-Powered dApps**: Automating DeFi strategies and NFT interactions with AI.  
+- **Smart Contracts & Protocols**: Developing scalable and efficient blockchain solutions.  
+- **Crypto Trading Bots**: Building intelligent bots for trading, arbitrage, and sniping.  
 
 ---
 
@@ -24,29 +37,24 @@
 
 ---
 
-## 🛠 Tech Stack  
-### 🌐 **Web & Blockchain** 
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs) 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)   
+## 🛠 **Tech Stack**  
+### 🌐 **Web & Blockchain**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)  
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)  
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon)  
 
-
 ### 💻 **Languages & Tools**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF45D?style=for-the-badge&logo=ethereum&logoColor=black)   
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF45D?style=for-the-badge&logo=ethereum&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-
 ---
 
-## 📌 Featured Projects  
-📌 **[Xennium](https://github.com/XD637/xennium.org)** - Web3 Platform for Xennium Community  
-📌 **[XenniumX](https://github.com/XD637/xenniumx)** - Xennium Smart Contract  
+### 👨‍💻 **Connect with Me**  
+💼 **[@XD637](https://t.me/XD637)**  
 
----
+🔥 **"Building the future of Blockchain & AI, one project at a time!"** 🚀
+```
 
-
-🔥 **"Always building & experimenting with Blockchain, AI & Next.js!"** 🚀  
