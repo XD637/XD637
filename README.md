@@ -5,17 +5,44 @@ Welcome to my repository! I specialize in **blockchain development, AI automatio
 
 ## 📋 **2025 Featured Projects**  
 
-<div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px;">
-
-| **Category**        | **Project Name**                   | **Description**                                       | **Repo Link**                                                          |
-|--------------------|--------------------------------|------------------------------------------------|------------------------------------------------------------------------|
-| **Web3 & DeFi**   | Xennium                         | Web3 Platform for Xennium Community            | [Repo](https://github.com/XD637/xennium.org)                          |
-|  **Web3 & DeFi**   | XenniumX                        | Xennium Token Smart Contract                        | [Repo](https://github.com/XD637/xenniumx)                             |
-| **AI & Automation**| AI Agent               | AI-driven Community bot for visbility strategies      | [Repo](https://github.com/xenx-bot)                     |                    |
-| **DApps & Wallets**   | XenConnect              | A Wallet Connection Kit               | [Repo](https://github.com/XD637/xenconnect-docs)                    |
-| **Airdrops**  | CryptoAirdrops             | An Airdrop Listing Platfom   | [Repo](https://github.com/XD637/cryptoairdrops)                   |
-
-</div>
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Repo Link</th>
+  </tr>
+  <tr>
+    <td><strong>Web3 & DeFi</strong></td>
+    <td>Xennium</td>
+    <td>Web3 Platform for Xennium Community</td>
+    <td><a href="https://github.com/XD637/xennium.org">Repo</a></td>
+  </tr>
+  <tr>
+    <td><strong>Web3 & DeFi</strong></td>
+    <td>XenniumX</td>
+    <td>Xennium Token Smart Contract</td>
+    <td><a href="https://github.com/XD637/xenniumx">Repo</a></td>
+  </tr>
+  <tr>
+    <td><strong>AI & Automation</strong></td>
+    <td>AI Agent</td>
+    <td>AI-driven Community bot for visibility strategies</td>
+    <td><a href="https://github.com/XD637/xenx-bot">Repo</a></td>
+  </tr>
+  <tr>
+    <td><strong>DApps & Wallets</strong></td>
+    <td>XenConnect</td>
+    <td>A Wallet Connection Kit</td>
+    <td><a href="https://github.com/XD637/xenconnect-docs">Repo</a></td>
+  </tr>
+  <tr>
+    <td><strong>Airdrops</strong></td>
+    <td>CryptoAirdrops</td>
+    <td>An Airdrop Listing Platform</td>
+    <td><a href="https://github.com/XD637/cryptoairdrops">Repo</a></td>
+  </tr>
+</table>
 
 ---
 
