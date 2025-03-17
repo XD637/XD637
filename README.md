@@ -22,16 +22,7 @@ I am passionate about building the next-generation **Web3 and AI-powered automat
 
 - **AI-Powered dApps**: Automating DeFi strategies and NFT interactions with AI.  
 - **Smart Contracts & Protocols**: Developing scalable and efficient blockchain solutions.  
-- **Crypto Trading Bots**: Building intelligent bots for trading, arbitrage, and sniping.  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=XD637&show_icons=true&theme=radical" />
-</p>
-
+- **Crypto Trading Bots**: Building intelligent bots for trading, arbitrage, and snipin
 ---
 
 🔥 **"Building the future of Blockchain & AI, one project at a time!"** 🚀  
