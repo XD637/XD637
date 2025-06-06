@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
 # **Software Developer**  
 
 Welcome to my repository! I specialize in **software development, AI automation, and web applications**. My focus is on building cutting-edge **Software and web applications ready for production**.  
@@ -27,19 +27,6 @@ Welcome to my repository! I specialize in **software development, AI automation,
 **Databases:** MongoDB, PostgreSQL, Supabase, MySQL  
 **Tools:** Git, GitHub, Postman, Vercel, Docker 
 **Other:** JWT Auth, OAuth, Webhooks, CI/CD, cron jobs
-
----
-
-## Focus Areas
-
-I’m passionate about building high-quality **software and web applications** that are fast, secure, and built to scale. Here’s what I focus on:
-
-- **Frontend Engineering**: Creating clean, responsive, and accessible UIs using modern frameworks like React and Next.js  
-- **Backend Development**: Building robust APIs and backend systems with Node.js, Express, and modern databases  
-- **Performance Optimization**: Profiling and optimizing applications for speed, load times, and responsiveness  
-- **Scalable Architecture**: Designing systems that handle real-world traffic and user loads with ease  
-- **Security Best Practices**: Implementing authentication, input validation, and protection against common vulnerabilities (XSS, CSRF, SQLi, etc.)  
-- **Automation & Tooling**: Writing scripts, bots, and CI/CD pipelines to speed up development and deployments
 
 ---
 
