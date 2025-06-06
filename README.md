@@ -1,10 +1,10 @@
-# 🚀 **Blockchain, AI & Next.js Projects**  
+# **Software Developer**  
 
-Welcome to my repository! I specialize in **blockchain development, AI automation, and Next.js applications**. My focus is on building cutting-edge **dApps, smart contracts, and AI-powered crypto solutions**.  
+Welcome to my repository! I specialize in **software development, AI automation, and web applications**. My focus is on building cutting-edge **Software and web applications ready for production**.  
 
 ---
 
-## 📋 **2025 Featured Projects**  
+## **2025 Featured Projects**  
 
 | Category          | Project Name  | Description                          | Repo Link |
 |------------------|--------------|--------------------------------------|-----------|
@@ -16,13 +16,30 @@ Welcome to my repository! I specialize in **blockchain development, AI automatio
 
 ---
 
-## 🌟 **Why Blockchain & AI?**  
+## Tech Stacks
 
-I am passionate about building the next-generation **Web3 and AI-powered automation tools** that simplify blockchain interactions. Here’s what I focus on:  
+**Languages:** JavaScript (ES6+), TypeScript, Python, Solidity, SQL  
+**Frontend:** React, Next.js, Tailwind CSS, HTML5, CSS3  
+**Backend:** Node.js, Express.js, Supabase, Firebase, REST APIs  
+**Blockchain:** Web3.js, Ethers.js, Solidity, Hardhat, MetaMask integration  
+**AI & Automation:** LangChain, OpenAI API, Puppeteer, Playwright  
+**Databases:** MongoDB, PostgreSQL, Supabase, MySQL  
+**Tools:** Git, GitHub, Postman, Vercel, Docker 
+**Other:** JWT Auth, OAuth, Webhooks, CI/CD, cron jobs
 
-- **AI-Powered dApps**: Automating DeFi strategies and NFT interactions with AI.  
-- **Smart Contracts & Protocols**: Developing scalable and efficient blockchain solutions.  
-- **Crypto Trading Bots**: Building intelligent bots for trading, arbitrage, and snipin
 ---
 
-🔥 **"Building the future of Blockchain & AI, one project at a time!"** 🚀  
+## Focus Areas
+
+I’m passionate about building high-quality **software and web applications** that are fast, secure, and built to scale. Here’s what I focus on:
+
+- **Frontend Engineering**: Creating clean, responsive, and accessible UIs using modern frameworks like React and Next.js  
+- **Backend Development**: Building robust APIs and backend systems with Node.js, Express, and modern databases  
+- **Performance Optimization**: Profiling and optimizing applications for speed, load times, and responsiveness  
+- **Scalable Architecture**: Designing systems that handle real-world traffic and user loads with ease  
+- **Security Best Practices**: Implementing authentication, input validation, and protection against common vulnerabilities (XSS, CSRF, SQLi, etc.)  
+- **Automation & Tooling**: Writing scripts, bots, and CI/CD pipelines to speed up development and deployments
+
+---
+
+🔥 **"Building reliable, scalable, and secure software — one line of code at a time."**
