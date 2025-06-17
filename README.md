@@ -1,7 +1,7 @@
 
-# **Software Developer**  
+# **Blockchain Developer**  
 
-Welcome to my repository! I specialize in **software development, AI automation, and web applications**. My focus is on building cutting-edge **Software and web applications ready for production**.  
+Welcome to my repository! I specialize in blockchain development, smart contracts, and backend engineering. I focus on building secure, scalable, and production-ready dApps, crypto tools, and web3-integrated applications.
 
 ---
 
