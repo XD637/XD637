@@ -17,17 +17,4 @@ Welcome to my repository! I specialize in **software development, AI automation,
 
 ---
 
-## Tech Stacks
-
-**Languages:** JavaScript (ES6+), TypeScript, Python, Solidity, SQL  
-**Frontend:** React, Next.js, Tailwind CSS, HTML5, CSS3  
-**Backend:** Node.js, Express.js, Supabase, Firebase, REST APIs  
-**Blockchain:** Web3.js, Ethers.js, Solidity, Hardhat, MetaMask integration  
-**AI & Automation:** LangChain, OpenAI API, Puppeteer, Playwright  
-**Databases:** MongoDB, PostgreSQL, Supabase, MySQL  
-**Tools:** Git, GitHub, Postman, Vercel, Docker 
-**Other:** JWT Auth, OAuth, Webhooks, CI/CD, cron jobs
-
----
-
 🔥 **"Building reliable, scalable, and secure software — one line of code at a time."**
