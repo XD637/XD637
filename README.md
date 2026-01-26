@@ -6,7 +6,6 @@ and quantum-resistant cryptography.
 🧠 Currently working on:
 - QuantaChain — a quantum-resistant blockchain
 - Privacy-focused protocol research (Monero-based systems)
-- High-performance blockchain indexers (Sui)
 
 🛠️ Tech I use:
 Rust • Go • C++ • Cryptography • Distributed Systems
