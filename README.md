@@ -1,16 +1,18 @@
-## Hi there 👋
+⚛️ Hey, I'm XD
 
-<!--
-**XD637/XD637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blockchain Engineer focused on low-level systems, privacy,
+and quantum-resistant cryptography.
 
-Here are some ideas to get you started:
+🧠 Currently working on:
+- QuantaChain — a quantum-resistant blockchain
+- Privacy-focused protocol research (Monero-based systems)
+- High-performance blockchain indexers (Sui)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech I use:
+Rust • Go • C++ • Cryptography • Distributed Systems
+
+🔍 Interests:
+Quantum computing, post-quantum crypto, protocol design
+
+🤝 Open to:
+Research collaborations, protocol design, early-stage startups
