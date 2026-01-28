@@ -9,4 +9,4 @@ Blockchain engineer focused on low-level systems, privacy, and quantum-resistant
 ## Open to Collaborations
 Working on protocol design, consensus research, or early-stage blockchain projects? Let's talk.
 
- [quantachain.org](https://quantachain.org)
+ [TG](https://t.me/Idcidkidgfa)
