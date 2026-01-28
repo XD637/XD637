@@ -1,17 +1,18 @@
-⚛️ Hey, I'm XD
+# Hey, I'm XD👋
 
-Blockchain Engineer focused on low-level systems, privacy,
-and quantum-resistant cryptography.
+Blockchain engineer focused on low-level systems, privacy, and quantum-resistant cryptography.
 
-🧠 Currently working on:
-- QuantaChain — a quantum-resistant blockchain - https://quantachain.org
-- Privacy-focused protocol research (Monero-based systems)
+## Currently Working On
+- **[QuantaChain](https://quantachain.org)** - Quantum-resistant Layer-1 blockchain in Rust
+- **[Oxyra](https://github.com/xaexaex/oxyrax)** - Privacy-focused blockchain (Monero fork)
+- Contributing to Solana ecosystem
 
-🛠️ Tech I use:
-Rust • Go • C++ • Cryptography • Distributed Systems
+## Tech Stack
+**Languages:** Rust • Go • C++ • Python  
+**Focus:** Protocol Design • Consensus • P2P Networking • Cryptography  
+**Systems:** Linux • Docker • AWS • Distributed Systems
 
-🔍 Interests:
-Quantum computing, post-quantum crypto, protocol design
+## Open to Collaborations
+Working on protocol design, consensus research, or early-stage blockchain projects? Let's talk.
 
-🤝 Open to:
-Research collaborations, protocol design, early-stage startups
+ [quantachain.org](https://quantachain.org)
