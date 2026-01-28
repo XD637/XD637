@@ -4,7 +4,7 @@ Blockchain Engineer focused on low-level systems, privacy,
 and quantum-resistant cryptography.
 
 🧠 Currently working on:
-- QuantaChain — a quantum-resistant blockchain
+- QuantaChain — a quantum-resistant blockchain - https://qunatachain.org
 - Privacy-focused protocol research (Monero-based systems)
 
 🛠️ Tech I use:
