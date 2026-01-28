@@ -1,4 +1,4 @@
-# Hey, I'm XD👋
+# Hi, I'm XD👋
 
 Blockchain engineer focused on low-level systems, privacy, and quantum-resistant cryptography.
 
@@ -9,4 +9,4 @@ Blockchain engineer focused on low-level systems, privacy, and quantum-resistant
 ## Open to Collaborations
 Working on protocol design, consensus research, or early-stage blockchain projects? Let's talk.
 
- [TG](https://t.me/Idcidkidgfa)
+ [Telegram](https://t.me/Idcidkidgfa)
