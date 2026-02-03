@@ -1,11 +1,2 @@
-# Hi, I'm XD👋
+Hey, I’m XD — a blockchain engineer focused on low-level systems, privacy tech, and quantum-resistant cryptography. I’m currently building **[QuantaChain](https://quantachain.org)**, a Rust-based quantum-resistant Layer-1 blockchain. I’m open to collaborating on protocol design, consensus research, or early-stage blockchain projects — feel free to reach out on **[Telegram](https://t.me/Idcidkidgfa)** if you’re working on something cool.
 
-Blockchain engineer focused on low-level systems, privacy, and quantum-resistant cryptography.
-
-# Currently Working On
-- **[QuantaChain](https://quantachain.org)** - Quantum-resistant Layer-1 blockchain in Rust
-
-# Open to Collaborations
-Working on protocol design, consensus research, or early-stage blockchain projects? Let's talk.
-
- [Telegram](https://t.me/Idcidkidgfa)
